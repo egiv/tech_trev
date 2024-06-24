@@ -39,3 +39,4 @@
 Сборка разных репозиториев
 
 - 🇷🇺 [Подбор наиболее частный вопросов на собеседования для фронтэнда с ответами, чтобы освежить память](https://github.com/yofi2tofi/frontend-questions-with-answers)
+- 🇺🇸 [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions?tab=readme-ov-file)
