@@ -3,6 +3,10 @@
 Бережная библиотека по фронтенду
 
 ## JS
+### Книжки
+- 🇷🇺 [JavaScript. Ядро: 2-ое издание](http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition-rus/)
+
+### Осатльное
 - 🇷🇺 [Карирование](https://learn.javascript.ru/currying-partials?ysclid=lx4jf7w3xa479938101)
 - 🇷🇺 [Карирование на Ylab](https://university.ylab.site/js/fp/#karrirovanie)
 - 🇷🇺 [Пять различных способов глубокого сравнения JavaScript объектов](https://www.dev-notes.ru/articles/javascript/five-different-ways-to-deep-compare-objects/?ysclid=lx4jy6c45u867492717)
