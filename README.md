@@ -10,6 +10,7 @@
 - 🇷🇺 [Карирование](https://learn.javascript.ru/currying-partials?ysclid=lx4jf7w3xa479938101)
 - 🇷🇺 [Карирование на Ylab](https://university.ylab.site/js/fp/#karrirovanie)
 - 🇷🇺 [Пять различных способов глубокого сравнения JavaScript объектов](https://www.dev-notes.ru/articles/javascript/five-different-ways-to-deep-compare-objects/?ysclid=lx4jy6c45u867492717)
+- 🇺🇸 [Deep Cloning Objects in JavaScript, the Modern Way](https://www.builder.io/blog/structured-clone)
 
 ## React
 
