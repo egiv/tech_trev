@@ -18,6 +18,7 @@
 - 🇷🇺 [Исходники React.memo или что такое SimpleMemo](https://habr.com/ru/articles/551804/)
 
 ## Typescript 
+- 🇷🇺 [Руководство по TypeScript. Metanit](https://metanit.com/web/typescript)
 - 🇷🇺 [TypeScript: Сравнение Типа и Интерфейса](https://www.dev-notes.ru/articles/typescript/type-vs-interface/?ysclid=lx4o2fudw1257780243)
 - 🇷🇺 [Дженерики](https://habr.com/ru/articles/455473/)
 
